@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ZZM' Blog
 
 You can use the [editor on GitHub](https://github.com/xzzm/xzzm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
