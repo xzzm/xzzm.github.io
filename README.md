@@ -6,6 +6,14 @@
 
 按照计划进行持续的学习
 
+学习计划项目
+
+* TensorFlow
+
+* Java8新特性
+
+* 函数式编程（SICP深入研读）
+
 ```markdown
 Syntax highlighted code block
 
